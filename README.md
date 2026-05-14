@@ -6,7 +6,7 @@ The blue line represents average temperature and the red line represents rainfal
 
 ## Data Source
 
-Synthetic Seattle weather trend data created for educational purposes.
+Sample weather trend data inspired by Seattle climate patterns. Dataset created for educational purposes in D3 HW2.
 
 ## Visualization
 
